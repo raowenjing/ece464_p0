@@ -285,10 +285,10 @@ def gateCalc(circuit, node):
                 return circuit
 
         # check how many 1's we counted
-        if count % 2 == 1:  # if more than one 1, we know it's going to be 0.
-            circuit[node][3] = '1'
-        else:  # Otherwise, the output is equal to how many 1's there are
+        if count % 2 == 1:  # odd number of 1 returns 0 for XNOR.
             circuit[node][3] = '0'
+        else:  # even number of 1 returns 1 for XNOR
+            circuit[node][3] = '1'
         return circuit
 
     # Error detection... should not be able to get at this point

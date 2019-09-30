@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42eb4694-500d-4193-adee-ac4b6bf0f460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/logic_sim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/logic_sim.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="478" selection-start-line="478" selection-end-line="478" />
+            <state relative-caret-position="1190">
+              <caret line="447" column="9" selection-start-line="447" selection-start-column="9" selection-end-line="447" selection-end-column="9" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -112,6 +107,7 @@
       <find>here</find>
       <find>testing</find>
       <find>ERROR:</find>
+      <find>while</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,9 +137,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="370" />
+    <option name="y" value="51" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -152,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -309,10 +305,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="40" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22173275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15911485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,7 +320,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50440526" side_tool="true" visible="true" weight="0.59151787" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50440526" side_tool="true" visible="true" weight="0.18548387" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4993573" weight="0.32884097" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
@@ -366,13 +361,6 @@
     <entry file="file://$PROJECT_DIR$/output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/circuit_benchmark/c17.bench">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circuit.bench">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -387,10 +375,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/circuit_benchmark/c17.bench">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="478" selection-start-line="478" selection-end-line="478" />
+        <state relative-caret-position="1190">
+          <caret line="447" column="9" selection-start-line="447" selection-start-column="9" selection-end-line="447" selection-end-column="9" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>

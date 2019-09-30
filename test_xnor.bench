@@ -1,0 +1,9 @@
+
+INPUT(A)
+INPUT(B) 
+
+OUTPUT(X) 
+OUTPUT(Y) 
+
+X = XOR(A, B)
+Y = XNOR(A, B) 
